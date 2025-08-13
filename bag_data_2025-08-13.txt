@@ -1,0 +1,12 @@
+Timestamp | Track ID | Bag Type | Bag Color
+------------------------------------------------------------
+2025-08-13_16-48-40 | Track ID: 11 | Bag Type | Bag Color
+2025-08-13_16-48-40 | Track ID: 11 | Suitcase | Gray
+2025-08-13_16-48-48 | Track ID: 1 | Bag Type | Bag Color
+2025-08-13_16-48-48 | Track ID: 1 | Suitcase | Off-White
+2025-08-13_16-49-20 | Track ID: 6 | Bag Type | Bag Color
+2025-08-13_16-49-20 | Track ID: 6 | Handbag | Black
+2025-08-13_16-49-38 | Track ID: 5 | Bag Type | Bag Color
+2025-08-13_16-49-38 | Track ID: 5 | Handbag | Light Beige/Off-White
+2025-08-13_16-49-51 | Track ID: 17 | Bag Type | Bag Color
+2025-08-13_16-49-51 | Track ID: 17 | Backpack | Blue/Black
